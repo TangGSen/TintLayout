@@ -25,14 +25,14 @@ Or use Gradle jCenter:
 
 Or Gradle Maven Central:
 
-    compile 'com.github.gigamole.tintlayout:library:1.0.1'
+    compile 'com.github.gigamole.tintlayout:library:1.0.2'
 
 Or Maven:
 
     <dependency>
 	    <groupId>com.github.gigamole.tintlayout</groupId>
 	    <artifactId>library</artifactId>
-	    <version>1.0.1</version>
+	    <version>1.0.2</version>
 	    <type>aar</type>
     </dependency>
 
